@@ -15,7 +15,7 @@
 <img width="1190" height="1082" alt="Screenshot 2025-11-13 090555" src="https://github.com/user-attachments/assets/e75e068c-9e80-44e9-bb94-18da8191c48a" />
 
 ## Flowchart Praktikum 
-
+https://lucid.app/lucidchart/0880846a-6a31-4525-9dda-b9499bc258bd/edit?viewport_loc=-877%2C-1929%2C1948%2C1922%2C0_0&invitationId=inv_6df37ca3-589d-4bb3-a89d-a0f5990eb82d
 
 
 
